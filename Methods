@@ -1,95 +1,177 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T22:38:45.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="PpF8b9Z6iHqIUIVsu53m" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T00:00:09.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="WvfTU8NiJXSkcA26hjZe" version="20.4.1" type="github">
   <diagram id="XatpZKxk0OR-lfF-7LWc" name="Page-1">
-    <mxGraphModel dx="1038" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="-720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-10" target="GSIsSOWZQYqrYvDgpSG4-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-10" value="objects" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-800" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-20" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-43" target="GSIsSOWZQYqrYvDgpSG4-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="-700" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-22" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-43" target="GSIsSOWZQYqrYvDgpSG4-21">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-22" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-43" target="GSIsSOWZQYqrYvDgpSG4-52">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="-700" as="sourcePoint" />
+            <mxPoint x="650" y="-750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-15" value="arrays" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-870" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-19" value="declarataion" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-680" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-27" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-21" target="GSIsSOWZQYqrYvDgpSG4-28">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-27" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-52" target="GSIsSOWZQYqrYvDgpSG4-28">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="-700" as="sourcePoint" />
             <mxPoint x="640" y="-620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-21" value="Expression" style="html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-680" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-28" value="Arrow" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="680" y="-600" width="321" height="270" as="geometry">
-            <mxRectangle x="639" y="-640" width="120" height="40" as="alternateBounds" />
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-28" value="Arrow Functions" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="440" width="320" height="40" as="geometry">
+            <mxRectangle x="440" width="321" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-29" value="let func = ( arg1, arg2, ...argN ) =&gt; expresion" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-28">
-          <mxGeometry y="40" width="321" height="30" as="geometry" />
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-29" value="let func = ( args ) =&gt; expression" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=13;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-28">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-30" value="" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-28">
-          <mxGeometry y="70" width="321" height="30" as="geometry" />
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-30" value="1. Однострочные возвращают значение без return" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-28">
+          <mxGeometry y="80" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-32" value="1)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-28">
-          <mxGeometry y="100" width="321" height="30" as="geometry" />
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-32" value="2. Многострочные с &quot;{ }&quot; и &quot;return&quot;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-28">
+          <mxGeometry y="120" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-42" value="1) single line with no return" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-28">
-          <mxGeometry y="130" width="321" height="40" as="geometry" />
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-42" value="3. Скобки можно не ставить, если аргумент один" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-28">
+          <mxGeometry y="160" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-37" value="2) multi-line with return - { return expression }" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;strokeWidth=1;fontStyle=1;labelBackgroundColor=none;fillColor=default;fillStyle=solid;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-28">
-          <mxGeometry y="170" width="321" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-31" value="Item 3" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-28">
-          <mxGeometry y="210" width="321" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-33" value="Item 3" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-28">
-          <mxGeometry y="240" width="321" height="30" as="geometry" />
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-69" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-43" target="GSIsSOWZQYqrYvDgpSG4-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GSIsSOWZQYqrYvDgpSG4-43" value="Function" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-720" width="320" height="320" as="geometry">
-            <mxRectangle x="280" y="-720" width="281" height="40" as="alternateBounds" />
+          <mxGeometry x="240" y="-720" width="320" height="240" as="geometry">
+            <mxRectangle x="240" y="-720" width="320" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-51" value="1. Аргументы, переданные в качестве параметров &#xa;    становятся локальными переменными" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-43">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-51" value="2. Аргументы, переданные в качестве параметров &#xa;    становятся локальными переменными" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-43">
           <mxGeometry y="40" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-44" value="2. Можно работать с глобальными переменными, &#xa;    если их не перекрывают локальные" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-43">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-44" value="3. Можно работать с глобальными переменными, &#xa;    если их не перекрывают локальные" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-43">
           <mxGeometry y="80" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-46" value="3. Код снаружи не имеет доступа&#xa;    к локальным переменным" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-43">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-46" value="4. Код снаружи не имеет доступа&#xa;    к локальным переменным" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-43">
           <mxGeometry y="120" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-45" value="4. Параметры - входящие переменные&#xa;    Аргументы - переданные значения" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-43">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-47" value="6. Параметры по умолчанию через &quot; = &quot;, можно функцию&#xa;    Иначе &quot;undefined&quot;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-43">
           <mxGeometry y="160" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-47" value="5. Параметры по умолчанию через &quot; = &quot;, можно в виде&#xa;    вычисляемой функции. Иначе &quot;undefined&quot;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-43">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-48" value="7. Выражние &quot;return ...&quot; возвращает результат&#xa;    вычисления. Пустой возвращает &quot;undefined&quot; " style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;strokeWidth=1;fontStyle=1;labelBackgroundColor=none;fillColor=default;fillStyle=solid;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-43">
           <mxGeometry y="200" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-48" value="6. Выражние &quot;return ...&quot; возвращает результат&#xa;    вычисления. Пустой возвращает &quot;undefined&quot; " style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;strokeWidth=1;fontStyle=1;labelBackgroundColor=none;fillColor=default;fillStyle=solid;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-43">
-          <mxGeometry y="240" width="320" height="40" as="geometry" />
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-52" value="Function Expression" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-400" width="320" height="200" as="geometry">
+            <mxRectangle x="440" y="-280" width="320" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-49" value="7. Верблюжий регистр для всех функций. &#xa;    Начинается со строчной буквы. &quot;new&quot; - с заглавной" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-43">
-          <mxGeometry y="280" width="320" height="40" as="geometry" />
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-73" value="let func = nameCase ( args ) { expression }  " style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=13;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-52">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-53" value="1. Создаётся в момент первого вызова" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-52">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-54" value="2. Глобальная область видимости, если&#xa;    присвоена к глобальной переменной" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-52">
+          <mxGeometry y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-55" value="3. Код снаружи не имеет доступа&#xa;    к локальным переменным" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-52">
+          <mxGeometry y="160" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-60" value="Function Declaration" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-400" width="320" height="200" as="geometry">
+            <mxRectangle x="40" y="-360" width="320" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-70" value="function nameCase ( args ) { expression } " style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=13;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-60">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-61" value="1. Может быть вызвана раньше, чем объявлена&#xa;    Создаётся до обработки блока кода" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-60">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-62" value="2. Блочная область видимости при &#39;use strict&#39;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-60">
+          <mxGeometry y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-63" value="3. Код снаружи не имеет доступа&#xa;    к локальным переменным" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-60">
+          <mxGeometry y="160" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-90" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-84" target="GSIsSOWZQYqrYvDgpSG4-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-84" value="Objects" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-1080" width="321" height="280" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-85" value="let object = { key: value }" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=13;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-84">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-86" value="1. Ключи могут быть строками или Symbol&#xa;    Остальные преобразуются к строке" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-84">
+          <mxGeometry y="80" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-88" value="3. Челочисленные свойства сортируются автоматом.&#xa;    Остальные свойства следуют в порядке создания" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-84">
+          <mxGeometry y="120" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-106" value="4. Обращение по ключу через  object . key" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-84">
+          <mxGeometry y="160" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-107" value="5. Обращение к свойству через  object [ &quot; string &quot; ]&#xa;    для string и Symbol" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-84">
+          <mxGeometry y="200" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-108" value="6. Вычисляемое свойство - object [ variable ]" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-84">
+          <mxGeometry y="240" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-92" value="Array" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-720" width="321" height="200" as="geometry">
+            <mxRectangle x="640" y="-720" width="320" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-93" value="let array = [ args ] " style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=13;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-92">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-94" value="1. Однострочные возвращают значение без return" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-92">
+          <mxGeometry y="80" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-95" value="2. Многострочные с &quot;{ }&quot; и &quot;return&quot;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-92">
+          <mxGeometry y="120" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-96" value="3. Скобки можно не ставить, если аргумент один" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-92">
+          <mxGeometry y="160" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-98" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-84" target="GSIsSOWZQYqrYvDgpSG4-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-99" value="Object Methods" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-1040" width="321" height="200" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-100" value="let object = { key: value }" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=13;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-99">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-101" value="1. Поиск свойства с помощью &quot;key&quot; in object" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-99">
+          <mxGeometry y="80" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-109" value="2. Перебор свойств - for ( let prop in object )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-99">
+          <mxGeometry y="120" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-110" value="3. Удаление свойства - delete object . prop" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-99">
+          <mxGeometry y="160" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-105" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-84" target="GSIsSOWZQYqrYvDgpSG4-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-111" value="Date" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-720" width="321" height="200" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-112" value="let object = { key: value }" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=13;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-111">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-113" value="1. Поиск свойства с помощью &quot;key&quot; in object" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-111">
+          <mxGeometry y="80" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-114" value="2. Перебор свойств - for ( let prop in object )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-111">
+          <mxGeometry y="120" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-115" value="3. Удаление свойства - delete object . prop" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-111">
+          <mxGeometry y="160" width="321" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
