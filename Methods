@@ -1,177 +1,785 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T00:00:09.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="WvfTU8NiJXSkcA26hjZe" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T17:51:15.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="lgjs3wfnuo7pMI4O4LFk" version="20.4.1" type="github">
   <diagram id="XatpZKxk0OR-lfF-7LWc" name="Page-1">
-    <mxGraphModel dx="1483" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7560" dy="4852" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-22" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-43" target="GSIsSOWZQYqrYvDgpSG4-52">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-22" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GSIsSOWZQYqrYvDgpSG4-43" target="GSIsSOWZQYqrYvDgpSG4-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="-700" as="sourcePoint" />
             <mxPoint x="650" y="-750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-27" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-52" target="GSIsSOWZQYqrYvDgpSG4-28">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-27" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="GSIsSOWZQYqrYvDgpSG4-52" target="GSIsSOWZQYqrYvDgpSG4-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="-700" as="sourcePoint" />
             <mxPoint x="640" y="-620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-28" value="Arrow Functions" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="440" width="320" height="40" as="geometry">
-            <mxRectangle x="440" width="321" height="200" as="alternateBounds" />
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-28" value="Arrow Functions" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="440" width="321" height="200" as="geometry">
+            <mxRectangle x="440" width="320" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-29" value="let func = ( args ) =&gt; expression" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=13;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-28">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-29" value="let func = ( args ) =&gt; expression" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=13;fontStyle=1" parent="GSIsSOWZQYqrYvDgpSG4-28" vertex="1">
           <mxGeometry y="40" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-30" value="1. Однострочные возвращают значение без return" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-28">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-30" value="1. Однострочные возвращают значение без return" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" parent="GSIsSOWZQYqrYvDgpSG4-28" vertex="1">
           <mxGeometry y="80" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-32" value="2. Многострочные с &quot;{ }&quot; и &quot;return&quot;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-28">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-32" value="2. Многострочные с &quot;{ }&quot; и &quot;return&quot;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" parent="GSIsSOWZQYqrYvDgpSG4-28" vertex="1">
           <mxGeometry y="120" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-42" value="3. Скобки можно не ставить, если аргумент один" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-28">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-42" value="3. Скобки можно не ставить, если аргумент один" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" parent="GSIsSOWZQYqrYvDgpSG4-28" vertex="1">
           <mxGeometry y="160" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-69" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-43" target="GSIsSOWZQYqrYvDgpSG4-60">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-69" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="GSIsSOWZQYqrYvDgpSG4-43" target="GSIsSOWZQYqrYvDgpSG4-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-43" value="Function" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-43" value="Function" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="240" y="-720" width="320" height="240" as="geometry">
             <mxRectangle x="240" y="-720" width="320" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-51" value="2. Аргументы, переданные в качестве параметров &#xa;    становятся локальными переменными" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-43">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-51" value="2. Аргументы, переданные в качестве параметров &#xa;    становятся локальными переменными" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" parent="GSIsSOWZQYqrYvDgpSG4-43" vertex="1">
           <mxGeometry y="40" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-44" value="3. Можно работать с глобальными переменными, &#xa;    если их не перекрывают локальные" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-43">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-44" value="3. Можно работать с глобальными переменными, &#xa;    если их не перекрывают локальные" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" parent="GSIsSOWZQYqrYvDgpSG4-43" vertex="1">
           <mxGeometry y="80" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-46" value="4. Код снаружи не имеет доступа&#xa;    к локальным переменным" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-43">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-46" value="4. Код снаружи не имеет доступа&#xa;    к локальным переменным" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" parent="GSIsSOWZQYqrYvDgpSG4-43" vertex="1">
           <mxGeometry y="120" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-47" value="6. Параметры по умолчанию через &quot; = &quot;, можно функцию&#xa;    Иначе &quot;undefined&quot;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-43">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-47" value="6. Параметры по умолчанию через &quot; = &quot;, можно функцию&#xa;    Иначе &quot;undefined&quot;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" parent="GSIsSOWZQYqrYvDgpSG4-43" vertex="1">
           <mxGeometry y="160" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-48" value="7. Выражние &quot;return ...&quot; возвращает результат&#xa;    вычисления. Пустой возвращает &quot;undefined&quot; " style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;strokeWidth=1;fontStyle=1;labelBackgroundColor=none;fillColor=default;fillStyle=solid;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-43">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-48" value="7. Выражние &quot;return ...&quot; возвращает результат&#xa;    вычисления. Пустой возвращает &quot;undefined&quot; " style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;strokeWidth=1;fontStyle=1;labelBackgroundColor=none;fillColor=default;fillStyle=solid;fontSize=11;" parent="GSIsSOWZQYqrYvDgpSG4-43" vertex="1">
           <mxGeometry y="200" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-52" value="Function Expression" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-52" value="Function Expression" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="440" y="-400" width="320" height="200" as="geometry">
             <mxRectangle x="440" y="-280" width="320" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-73" value="let func = nameCase ( args ) { expression }  " style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=13;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-52">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-73" value="let func = nameCase ( args ) { expression }  " style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=13;" parent="GSIsSOWZQYqrYvDgpSG4-52" vertex="1">
           <mxGeometry y="40" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-53" value="1. Создаётся в момент первого вызова" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-52">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-53" value="1. Создаётся в момент первого вызова" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" parent="GSIsSOWZQYqrYvDgpSG4-52" vertex="1">
           <mxGeometry y="80" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-54" value="2. Глобальная область видимости, если&#xa;    присвоена к глобальной переменной" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-52">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-54" value="2. Глобальная область видимости, если&#xa;    присвоена к глобальной переменной" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" parent="GSIsSOWZQYqrYvDgpSG4-52" vertex="1">
           <mxGeometry y="120" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-55" value="3. Код снаружи не имеет доступа&#xa;    к локальным переменным" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-52">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-55" value="3. Код снаружи не имеет доступа&#xa;    к локальным переменным" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" parent="GSIsSOWZQYqrYvDgpSG4-52" vertex="1">
           <mxGeometry y="160" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-60" value="Function Declaration" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-60" value="Function Declaration" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="40" y="-400" width="320" height="200" as="geometry">
             <mxRectangle x="40" y="-360" width="320" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-70" value="function nameCase ( args ) { expression } " style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=13;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-60">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-70" value="function nameCase ( args ) { expression } " style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=13;" parent="GSIsSOWZQYqrYvDgpSG4-60" vertex="1">
           <mxGeometry y="40" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-61" value="1. Может быть вызвана раньше, чем объявлена&#xa;    Создаётся до обработки блока кода" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-60">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-61" value="1. Может быть вызвана раньше, чем объявлена&#xa;    Создаётся до обработки блока кода" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" parent="GSIsSOWZQYqrYvDgpSG4-60" vertex="1">
           <mxGeometry y="80" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-62" value="2. Блочная область видимости при &#39;use strict&#39;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-60">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-62" value="2. Блочная область видимости при &#39;use strict&#39;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" parent="GSIsSOWZQYqrYvDgpSG4-60" vertex="1">
           <mxGeometry y="120" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-63" value="3. Код снаружи не имеет доступа&#xa;    к локальным переменным" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-60">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-63" value="3. Код снаружи не имеет доступа&#xa;    к локальным переменным" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1;fontSize=11;" parent="GSIsSOWZQYqrYvDgpSG4-60" vertex="1">
           <mxGeometry y="160" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-90" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-84" target="GSIsSOWZQYqrYvDgpSG4-43">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-90" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="GSIsSOWZQYqrYvDgpSG4-84" target="GSIsSOWZQYqrYvDgpSG4-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-84" value="Objects" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-206" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-84" target="RgqaGI7XxwUQrVJzm9ng-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-84" value="Objects" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="240" y="-1080" width="321" height="280" as="geometry">
             <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-85" value="let object = { key: value }" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=13;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-84">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-85" value="let object = { key: value }" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=13;fontStyle=1" parent="GSIsSOWZQYqrYvDgpSG4-84" vertex="1">
           <mxGeometry y="40" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-86" value="1. Ключи могут быть строками или Symbol&#xa;    Остальные преобразуются к строке" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-84">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-86" value="1. Ключи могут быть строками или Symbol&#xa;    Остальные преобразуются к строке" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" parent="GSIsSOWZQYqrYvDgpSG4-84" vertex="1">
           <mxGeometry y="80" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-88" value="3. Челочисленные свойства сортируются автоматом.&#xa;    Остальные свойства следуют в порядке создания" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-84">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-88" value="3. Челочисленные свойства сортируются автоматом.&#xa;    Остальные свойства следуют в порядке создания" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" parent="GSIsSOWZQYqrYvDgpSG4-84" vertex="1">
           <mxGeometry y="120" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-106" value="4. Обращение по ключу через  object . key" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-84">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-106" value="4. Обращение по ключу через  object . key" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" parent="GSIsSOWZQYqrYvDgpSG4-84" vertex="1">
           <mxGeometry y="160" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-107" value="5. Обращение к свойству через  object [ &quot; string &quot; ]&#xa;    для string и Symbol" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-84">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-107" value="5. Обращение к свойству через  object [ &quot; string &quot; ]&#xa;    для string и Symbol" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" parent="GSIsSOWZQYqrYvDgpSG4-84" vertex="1">
           <mxGeometry y="200" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-108" value="6. Вычисляемое свойство - object [ variable ]" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-84">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-108" value="6. Вычисляемое свойство - object [ variable ]" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" parent="GSIsSOWZQYqrYvDgpSG4-84" vertex="1">
           <mxGeometry y="240" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-92" value="Array" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-92" value="Array" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="640" y="-720" width="321" height="200" as="geometry">
             <mxRectangle x="640" y="-720" width="320" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-93" value="let array = [ args ] " style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=13;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-92">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-93" value="let array = [ args ] " style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=13;fontStyle=1" parent="GSIsSOWZQYqrYvDgpSG4-92" vertex="1">
           <mxGeometry y="40" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-94" value="1. Однострочные возвращают значение без return" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-92">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-94" value="1. Однострочные возвращают значение без return" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" parent="GSIsSOWZQYqrYvDgpSG4-92" vertex="1">
           <mxGeometry y="80" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-95" value="2. Многострочные с &quot;{ }&quot; и &quot;return&quot;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-92">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-95" value="2. Многострочные с &quot;{ }&quot; и &quot;return&quot;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" parent="GSIsSOWZQYqrYvDgpSG4-92" vertex="1">
           <mxGeometry y="120" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-96" value="3. Скобки можно не ставить, если аргумент один" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-92">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-96" value="3. Скобки можно не ставить, если аргумент один" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" parent="GSIsSOWZQYqrYvDgpSG4-92" vertex="1">
           <mxGeometry y="160" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-98" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-84" target="GSIsSOWZQYqrYvDgpSG4-92">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-98" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="GSIsSOWZQYqrYvDgpSG4-84" target="GSIsSOWZQYqrYvDgpSG4-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-99" value="Object Methods" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-99" value="Object Methods" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="640" y="-1040" width="321" height="200" as="geometry">
             <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-100" value="let object = { key: value }" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=13;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-99">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-100" value="let object = { key: value }" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=13;fontStyle=1" parent="GSIsSOWZQYqrYvDgpSG4-99" vertex="1">
           <mxGeometry y="40" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-101" value="1. Поиск свойства с помощью &quot;key&quot; in object" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-99">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-101" value="1. Поиск свойства с помощью &quot;key&quot; in object" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" parent="GSIsSOWZQYqrYvDgpSG4-99" vertex="1">
           <mxGeometry y="80" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-109" value="2. Перебор свойств - for ( let prop in object )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-99">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-109" value="2. Перебор свойств - for ( let prop in object )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" parent="GSIsSOWZQYqrYvDgpSG4-99" vertex="1">
           <mxGeometry y="120" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-110" value="3. Удаление свойства - delete object . prop" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-99">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-110" value="3. Удаление свойства - delete object . prop" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" parent="GSIsSOWZQYqrYvDgpSG4-99" vertex="1">
           <mxGeometry y="160" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-105" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="GSIsSOWZQYqrYvDgpSG4-84" target="GSIsSOWZQYqrYvDgpSG4-99">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-105" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="GSIsSOWZQYqrYvDgpSG4-84" target="GSIsSOWZQYqrYvDgpSG4-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-111" value="Date" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-111" value="Date" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1040" y="-720" width="321" height="200" as="geometry">
             <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-112" value="let object = { key: value }" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=13;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-111">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-112" value="let object = { key: value }" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=13;fontStyle=1" parent="GSIsSOWZQYqrYvDgpSG4-111" vertex="1">
           <mxGeometry y="40" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-113" value="1. Поиск свойства с помощью &quot;key&quot; in object" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-111">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-113" value="1. Поиск свойства с помощью &quot;key&quot; in object" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" parent="GSIsSOWZQYqrYvDgpSG4-111" vertex="1">
           <mxGeometry y="80" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-114" value="2. Перебор свойств - for ( let prop in object )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-111">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-114" value="2. Перебор свойств - for ( let prop in object )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" parent="GSIsSOWZQYqrYvDgpSG4-111" vertex="1">
           <mxGeometry y="120" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GSIsSOWZQYqrYvDgpSG4-115" value="3. Удаление свойства - delete object . prop" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="GSIsSOWZQYqrYvDgpSG4-111">
+        <mxCell id="GSIsSOWZQYqrYvDgpSG4-115" value="3. Удаление свойства - delete object . prop" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" parent="GSIsSOWZQYqrYvDgpSG4-111" vertex="1">
           <mxGeometry y="160" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-1" value="arr . push (...items)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-1390" width="321" height="80" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-3" value="Добавляет элементы в конец массива" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-1">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-6" value="arr . Pop ( )" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="-1400" width="321" height="80" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-8" value="Добавляет элементы в конец массива" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-6">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-9" value="arr . shift ( )" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-1290" width="321" height="80" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-10" value="Извлекает элемент из начала массива" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-9">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-11" value="arr . unshift (...items)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="-1280" width="321" height="80" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-12" value="Добавляет элемент в начало массива" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-11">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-13" value="arr . length" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1361" y="-1400" width="319" height="80" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-14" value="Возвращает длину массива" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-13">
+          <mxGeometry y="40" width="319" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-15" value="arr . splice" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1361" y="-1280" width="321" height="280" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-21" value="arr . splice ( index [ , deleteCount , elem1, ... , elemN ] )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-15">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-16" value="1. Начиная с &quot;index&quot; удаляет &quot;deleteCount&quot; элементов и&#xa;     вставляет &quot;elem1, ... , elemN&quot; на их место" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-15">
+          <mxGeometry y="80" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-22" value="2. Модифицирует действующий массив" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-15">
+          <mxGeometry y="120" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-23" value="3.  Возвращает новый массив из удалённых элементов" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-15">
+          <mxGeometry y="160" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-24" value="4. При &quot;deleteCount = 0&quot; - возвращает массив&#xa;    без удаления элементов" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-15">
+          <mxGeometry y="200" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-25" value="5. Разрешен отрицательный index - начинает с конца" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-15">
+          <mxGeometry y="240" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-17" value="delete arr [position]" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1361" y="-1510" width="321" height="80" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-18" value="Удаляет элемент из массива без изменения length&#xa;Значение удалённого элемента становится &quot;undefined&quot;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-17">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-26" value="arr . slice" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-1280" width="321" height="280" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-27" value="arr . slice ( [start] , [end] )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-26">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-28" value="1. Копирует элементы с индекса &quot;start&quot; до &quot;end&quot; " style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-26">
+          <mxGeometry y="80" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-29" value="2. Копирует не включая &quot;end&quot; " style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-26">
+          <mxGeometry y="120" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-30" value="3. Возвращает новый массив скопированных элементов" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-26">
+          <mxGeometry y="160" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-31" value="4. Индексы &quot;start&quot; и &quot;end&quot; могут быть отрицательными&#xa;    Тогда отсчёт будет с конца массива" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-26">
+          <mxGeometry y="200" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-32" value="5. При вызове без аргументов - создаёт копию массива" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-26">
+          <mxGeometry y="240" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-33" value="arr . slice" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="-1280" width="321" height="280" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-34" value="arr . concat ( arg1, ..., argN)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-33">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-35" value="1. Создаёт новый массив, в который копирует данные&#xa;    из других массивов и дополнительные значения" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-33">
+          <mxGeometry y="80" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-36" value="2. Принимает любое количество аргументов, которые&#xa;    могут быть массивами и простыми значениями" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-33">
+          <mxGeometry y="120" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-37" value="3. Возвращает новый массив из элементов&#xa;    arr и затем arg1 , ... , argN" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-33">
+          <mxGeometry y="160" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-38" value="4. Если argN - массив, все элементы копируются.&#xa;    Иначе копируется сам аргумент" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-33">
+          <mxGeometry y="200" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-39" value="5. Если массив - объект имеет Symbol.isConcatSpread&quot;,&#xa;    то обрабатывается как массив, с помощью concat" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-33">
+          <mxGeometry y="240" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-40" value="arr . forEach" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="-1600" width="320" height="160" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-41" value="arr . forEach ( function ( item , index , array ) { ... }" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-40">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-42" value="1. Запускает функцию для каждого элемента массива" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-40">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-46" value="2. Результат функции (если возвращает) отбрасывается&#xa;    и игнорируется" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-40">
+          <mxGeometry y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-47" value="arr . IndexOf" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-2120" width="320" height="240" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-48" value="arr . indexOf ( item , from )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-47">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-49" value="1. Поиск &quot;item&quot;, начиная с индекса &quot;from&quot;, и возвращает&#xa;    индекс, на котором был найден элемент" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-47">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-51" value="2. Если элемент не найден, возвращает &quot;-1&quot;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-47">
+          <mxGeometry y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-50" value="3. В случае отсутствия &quot;from&quot; - начинает с начала" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-47">
+          <mxGeometry y="160" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-52" value="4. Метод использует строгое равенство для проверки" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-47">
+          <mxGeometry y="200" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-54" value="arr . lastIndexOf" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="-2120" width="320" height="120" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-55" value="arr . lastIndexOf ( item , from )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-54">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-56" value="1. Работает так же, как indexOf - но справа налево" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-54">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-60" value="arr . includes ( item , from )" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2081" y="-1960" width="320" height="200" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-61" value="arr . includes ( item , from )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-60">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-62" value="1. Поиск &quot;item&quot;, начиная с индекса &quot;from&quot;.&#xa;    Возвращает &quot;true&quot;, если поиск успешен" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-60">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-66" value="2. Правильно обрабатывает NaN" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-60">
+          <mxGeometry y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-65" value="3. Метод использует строгое равенство для проверки" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-60">
+          <mxGeometry y="160" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-71" value="arr . find" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-2120" width="320" height="240" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-72" value="let result = arr . find ( function ( item [, index , array] ) { ... }  )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-71">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-73" value="1. Если true - возвращает текущий элемент и&#xa;    перебор завершается" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-71">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-74" value="2. Если все итерации оказались ложными,&#xa;    возвращается &quot;underfined&quot;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-71">
+          <mxGeometry y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-76" value="3. &quot;Item&quot; - очередной элемент, &quot;index&quot; - его индекс,&#xa;    &quot;array&quot; - сам массив" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-71">
+          <mxGeometry y="160" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-75" value="3. В случае отсутствия &quot;from&quot; - начинает с начала" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-71">
+          <mxGeometry y="200" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-77" value="arr . findIndex" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-2120" width="320" height="160" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-78" value="let result = arr. findIndex ( function ( item, index, array ) { } )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-77">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-79" value="1. То же самое, что &quot;find&quot;, но возвращает только индекс    на котором найден элемент" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-77">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-83" value="2. Возвращает &quot;-1&quot;, если ничего не найдено" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-77">
+          <mxGeometry y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-84" value="arr . filter" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2147" y="-528" width="320" height="240" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-85" value="let results = arr .filter ( function (item, index, array) { ... } )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-84">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-86" value="1. Если true - элемент добавляется к результату, перебор&#xa;    продолжается" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-84">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-87" value="2. Возвращается пустой массив, если ничего не найдено" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-84">
+          <mxGeometry y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-88" value="4. Метод использует строгое равенство для проверки" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-84">
+          <mxGeometry y="160" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-89" value="3. В случае отсутствия &quot;from&quot; - начинает с начала" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-84">
+          <mxGeometry y="200" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-90" value="arr . map" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2147" y="-688" width="320" height="120" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-91" value="let results = arr .map ( function (item, index, array) { ... } )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-90">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-92" value="1. Вызывает функцию для каждого элемента массива и&#xa;    возвращает массив результатов выполнения функции" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-90">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-96" value="arr . sort" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="-1627" width="320" height="240" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-97" value="let results = arr .sort ( fn )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-96">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-98" value="1. Возвращает отсортированный массив, но обычно&#xa;возвращаемое значение игнорируется, т.к. меняется arr" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-96">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-99" value="2. По умолчанию элементы сортируются как строки" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-96">
+          <mxGeometry y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-100" value="3. Функция сравнения может вернуть любое число, если&#xa;    результат положительный - то &quot;больше&quot; и наоборот" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-96">
+          <mxGeometry y="160" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-101" value="4. Для сравнения интернациональных строк лучше &#xa;    использовать str.localeCompare" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-96">
+          <mxGeometry y="200" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-102" value="arr . reverse" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2147" y="-888" width="320" height="160" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-103" value="arr . reverse ( ) ;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-102">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-104" value="1. Инвертирует порядок элементов в arr" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-102">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-106" value="2. Возвращает arr с измененным порядком элементов" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-102">
+          <mxGeometry y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-107" value="arr . split" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="3029" y="-1627" width="320" height="240" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-108" value="str . split ( delim [, count ] ) " style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-107">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-109" value="1. Разбирает строку на массив по разделителю &quot;delim&quot;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-107">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-110" value="2. Возвращает arr с измененным порядком элементов" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-107">
+          <mxGeometry y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-111" value="3. Необязательный числовой &quot;count&quot; - ограничение на&#xa;    количество элементов в массиве, остаток удаляется" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-107">
+          <mxGeometry y="160" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-112" value="4. С аргументом пустой строки &quot; &quot; - разбивает строку&#xa;    на массив букв" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-107">
+          <mxGeometry y="200" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-113" value="arr . join " style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="3029" y="-1347" width="320" height="240" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-114" value="arr . join ( glue ) " style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-113">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-115" value="1. Cоздаёт строку из элементов arr, вставляя &quot;glue&quot;&#xa;    между ними" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-113">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-116" value="2. Возвращает arr с измененным порядком элементов" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-113">
+          <mxGeometry y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-117" value="3. Необязательный числовой &quot;count&quot; - ограничение на&#xa;    количество элементов в массиве, остаток удаляется" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-113">
+          <mxGeometry y="160" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-118" value="4. С аргументом пустой строки &quot; &quot; - разбивает строку&#xa;    на массив букв" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-113">
+          <mxGeometry y="200" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-119" value="arr . reduce / arr . reduceRight" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="3549" y="-1627" width="320" height="320" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-120" value="let value = arr . reduce&#xa;    ( function ( accumulator, item [, index, array] ) {...}, [init] )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-119">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-121" value="1. Используется для вычисления единого значения&#xa;    на основе всего массива" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-119">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-122" value="2. Функция применяется ко всем элементам массива&#xa;    и &quot;переносит&quot; результат на следующий вызов" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-119">
+          <mxGeometry y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-123" value="3. &quot;accumulator&quot; - результат предыдущего вызова,&#xa;    равен &quot;init&quot; при первом вызове, если &quot;init&quot; существует" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-119">
+          <mxGeometry y="160" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-124" value="4. &quot;item&quot; - очередной элемент массива,&#xa;    &quot;index&quot; - его индекс, &quot;array&quot; - сам массив" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-119">
+          <mxGeometry y="200" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-126" value="5. При отсутствии &quot;init&quot; - первым значением становится&#xa;    первый элемент массива, а перебор со второго" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-119">
+          <mxGeometry y="240" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-127" value="6. Метод &quot;reduceRight&quot; - работает аналогично, но&#xa;    проходит по массиву справа налево" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-119">
+          <mxGeometry y="280" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-129" value="Array . isArray" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="3549" y="-1267" width="320" height="240" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-130" value="Array . isArray ( value )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-129">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-131" value="1. Возвращает &quot;true&quot;, если value - массив, и false соотв." style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-129">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-132" value="2. Возвращает arr с измененным порядком элементов" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-129">
+          <mxGeometry y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-133" value="3. Необязательный числовой &quot;count&quot; - ограничение на&#xa;    количество элементов в массиве, остаток удаляется" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-129">
+          <mxGeometry y="160" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-134" value="4. С аргументом пустой строки &quot; &quot; - разбивает строку&#xa;    на массив букв" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-129">
+          <mxGeometry y="200" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-135" value="thisArg" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="3109" y="-2107" width="320" height="120" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-136" value="arr . method ( func, thisArg ) " style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-135">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-137" value="1. Значение параметра thisArg становится this для func" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-135">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-141" value="arr . join " style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4069" y="-1627" width="320" height="240" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-142" value="arr . join ( glue ) " style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-141">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-143" value="1. Cоздаёт строку из элементов arr, вставляя &quot;glue&quot;&#xa;    между ними" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-141">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-144" value="2. Возвращает arr с измененным порядком элементов" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-141">
+          <mxGeometry y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-145" value="3. Необязательный числовой &quot;count&quot; - ограничение на&#xa;    количество элементов в массиве, остаток удаляется" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-141">
+          <mxGeometry y="160" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-146" value="4. С аргументом пустой строки &quot; &quot; - разбивает строку&#xa;    на массив букв" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-141">
+          <mxGeometry y="200" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-147" value="arr . some" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="72" y="-2147" width="320" height="120" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-148" value="arr . some ( fn )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-147">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-153" value="Проверяет, удовлетворяет ли какой-либо элемент&#xa;массива условию, заданному в передаваемой функции " style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-147">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-151" value="arr . every" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="72" y="-1937" width="320" height="120" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-152" value="arr . some ( fn )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-151">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-154" value="Проверяет, удовлетворяют ли все элементы массива&#xa;условию, заданному в передаваемой функции" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-151">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-155" value="arr . fill" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-368" y="-2147" width="320" height="120" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-156" value="arr . fill (value, start, end)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-155">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-157" value="Заполняет массив повторяющимися value,&#xa;начиная с индекса start до end" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-155">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-158" value="arr . copyWithin" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-368" y="-1947" width="320" height="120" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-159" value="arr . copyWithin (target, start, end)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-158">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-160" value="Копирует элементы, начиная со start и заканчивая end,&#xa;в собственную позицию target (перезаписывает сущ.)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-158">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-161" value="arr . flat / arr . flatMap" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-768" y="-2147" width="320" height="120" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-162" value="arr . fill (value, start, end)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-161">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-163" value="Заполняет массив повторяющимися value,&#xa;начиная с индекса start до end" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-161">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-164" value="ITERATION MAP METHODS" style="swimlane;fillStyle=solid;fillColor=#1A1A1A;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="-1370" y="-1140" width="340" height="490" as="geometry">
+            <mxRectangle x="-659.5" y="-1120" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-165" value="map . keys" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-164">
+          <mxGeometry x="10" y="50" width="321" height="80" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-166" value="Возвращает итерируемый объект по ключам" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-165">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-167" value="map . values ( )" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-164">
+          <mxGeometry x="10" y="140" width="321" height="80" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-168" value="Возвращает итерируемый объект по значениям" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-167">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-169" value="map . forEach ( )" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-164">
+          <mxGeometry x="10" y="360" width="321" height="120" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-170" value="map . forEach ( (value, key, map) =&gt; { ... } )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-169">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-171" value="Функция перебора для каждой пары (ключ, значение)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-169">
+          <mxGeometry y="80" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-172" value="map . entries ( ) " style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-164">
+          <mxGeometry x="10" y="230" width="321" height="120" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-173" value="Возвращает итерируемый объект по парам&#xa;вида [ key, value ]" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-172">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-174" value="Используется по умолчанию в for ... of" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-172">
+          <mxGeometry y="80" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-175" value="map . for ( )" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="-800" width="321" height="120" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-176" value="map . forEach ( (value, key, map) =&gt; { ... } )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-175">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-177" value="Функция перебора для каждой пары (ключ, значение)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-175">
+          <mxGeometry y="80" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-178" value="MANIPULATION MAP METHODS" style="swimlane;fillStyle=solid;fillColor=#1A1A1A;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="-1140" width="341" height="590" as="geometry">
+            <mxRectangle x="-659.5" y="-1120" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-179" value="map . set (key, value)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-178">
+          <mxGeometry x="10" y="50" width="321" height="80" as="geometry">
+            <mxRectangle y="40" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-180" value="Записывает по ключу &quot;key&quot; значение &quot;value&quot;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-179">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-181" value="map . get (key)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-178">
+          <mxGeometry x="10" y="140" width="321" height="80" as="geometry">
+            <mxRectangle x="-1" y="120" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-182" value="Возвращает значение по ключу или undefined,&#xa;если &quot;key&quot; отсутствует" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-181">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-183" value="map . has (key)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-178">
+          <mxGeometry x="10" y="230" width="321" height="80" as="geometry">
+            <mxRectangle x="-1" y="200" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-184" value="Возвращает &quot;true&quot;, если ключ &quot;key&quot; присутствует&#xa;в коллекции, иначе &quot;false&quot;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-183">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-185" value="map . delete (key)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-178">
+          <mxGeometry x="10" y="320" width="321" height="80" as="geometry">
+            <mxRectangle y="320" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-186" value="Удаляет элементы по ключу &quot;key&quot;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-185">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-187" value="map . clear ( )" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-178">
+          <mxGeometry x="10" y="410" width="321" height="80" as="geometry">
+            <mxRectangle y="320" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-188" value="Очищает коллекцию от всех элементов" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-187">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-189" value="map . size" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-178">
+          <mxGeometry x="10" y="500" width="321" height="80" as="geometry">
+            <mxRectangle y="320" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-190" value="Возвращает текущее количество элементов" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-189">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-191" value="Object . entries (obj)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="-1100" width="321" height="120" as="geometry">
+            <mxRectangle y="320" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-192" value="let map = new Map (Object . entries ( obj ) )" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-191">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-193" value="Получает объект и возвращает массив пар key-value" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-191">
+          <mxGeometry y="80" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-194" value="Object . fromEntries" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="-970" width="321" height="120" as="geometry">
+            <mxRectangle y="320" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-195" value="let some = map" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-194">
+          <mxGeometry y="40" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-196" value="Получает массив пар вида [key, value], и возвращает &#xa;из них объект" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-194">
+          <mxGeometry y="80" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-197" value="Map" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=default;arcSize=15;rounded=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="-1090" width="321" height="360" as="geometry">
+            <mxRectangle x="239" y="-1000" width="321" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-198" value="let someMap = new Map ( [&#xa;[ key , value ] ,&#xa;[ keyN , valueN ]&#xa;] }" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=13;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-197">
+          <mxGeometry y="40" width="321" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-199" value="1. Ключи могут быть строками или Symbol&#xa;    Остальные преобразуются к строке" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=11;fontStyle=1" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-197">
+          <mxGeometry y="120" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-200" value="3. Челочисленные свойства сортируются автоматом.&#xa;    Остальные свойства следуют в порядке создания" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-197">
+          <mxGeometry y="160" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-201" value="4. Обращение по ключу через  object . key" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-197">
+          <mxGeometry y="200" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-202" value="5. Обращение к свойству через  object [ &quot; string &quot; ]&#xa;    для string и Symbol" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-197">
+          <mxGeometry y="240" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-203" value="6. Вычисляемое свойство - object [ variable ]" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-197">
+          <mxGeometry y="280" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgqaGI7XxwUQrVJzm9ng-204" value="7. Перебор происходит по порядку создания" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;perimeterSpacing=1;fontStyle=1;rounded=0;glass=0;shadow=0;sketch=0;fontSize=11;" vertex="1" parent="RgqaGI7XxwUQrVJzm9ng-197">
+          <mxGeometry y="320" width="321" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
